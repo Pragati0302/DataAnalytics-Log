@@ -24,7 +24,9 @@ I'm tackling the Data Analyst toolkit in phases. The current focus is entirely o
 I am currently using these resources to refresh my knowledge. I’ll keep adding resources as I go deeper into this journey
 
 ### 🔹 Python
-- [GeeksforGeeks Python Skill-Up Track](https://www.geeksforgeeks.org/batch/skill-up-python/) 
+- [GeeksforGeeks Python Skill-Up Track](https://www.geeksforgeeks.org/batch/skill-up-python/)
+- [W3Schools] https://www.w3schools.com/python/
+- YT Tutorial by Telusko
 
 ### 🔹 SQL
 - [Codecademy SQL Course](https://www.codecademy.com/learn/learn-sql/) 
