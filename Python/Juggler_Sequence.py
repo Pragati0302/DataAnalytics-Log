@@ -24,10 +24,14 @@ class Solution:
         while n > 1:
             # If the number is odd, perform the juggler equation
             if n % 2:
+                print(f'{n} is odd')
                 n = int(sqrt(n) * n)
+                print(n)
             # If the number is even, perform the juggler equation
             else:
+                print(f'{n} is even')
                 n = int(sqrt(n))
+                print(n)
 
             # Add the number to the result list
             res.append(n)
